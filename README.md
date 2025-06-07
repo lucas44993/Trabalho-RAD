@@ -11,7 +11,7 @@ Um sistema simples para gerenciar cadastro de alunos, desenvolvido em Python usa
 - Adicionar alunos
 - Remover alunos
 - Alterar dados dos alunos
-- Listar todos os alunos
+- Listar todos os alunogit
 
 ## Como Rodar (VSCode)
 
