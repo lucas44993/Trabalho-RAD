@@ -1,5 +1,3 @@
-# Trabalho-RAD
-Trabalho Faculdade
 # Sistema de Gerenciamento de Alunos
 
 Um sistema simples para gerenciar cadastro de alunos, desenvolvido em Python usando Tkinter.
