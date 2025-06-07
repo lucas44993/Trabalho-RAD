@@ -15,7 +15,7 @@ Um sistema simples para gerenciar cadastro de alunos, desenvolvido em Python usa
 
 ## Como Rodar (VSCode)
 
-1. Certifique-se de ter Python 3.x ou superior instalado
+1. Certifique-se de ter Python 3.x ou superior instaladoasd
 2. Abra o VSCode
 3. Vá em File > Open Folder (ou Arquivo > Abrir Pasta)
 4. Selecione a pasta "Trabalho Python RAD"
